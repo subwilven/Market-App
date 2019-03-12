@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarketApp</string>
+    <string name="brands">الماركات</string>
+    <string name="categories">الفئات</string>
+</resources>
